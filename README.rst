@@ -2,9 +2,6 @@ Music Downloader Telegram Bot aka scdlbot
 =========================================
 
 
-.. image:: https://img.shields.io/badge/Telegram-@scdlbot-blue.svg
-        :target: https://t.me/scdlbot
-        :alt: Telegram Bot
 
 .. image:: https://travis-ci.com/gpchelkin/scdlbot.svg?branch=master
         :target: https://travis-ci.com/gpchelkin/scdlbot
@@ -83,7 +80,7 @@ Supported sites and mainly used packages
    `Mixcloud <https://www.mixcloud.com/>`__, and almost everything from this `list <https://ytdl-org.github.io/youtube-dl/supportedsites.html>`__:
    `youtube-dl <https://ytdl-org.github.io/youtube-dl>`__
 
-Run your own scdlbot
+Run your own Ayanami
 --------------------
 
 Installation & Configuration
