@@ -17,8 +17,8 @@ authors = ["George Pchelkin <george@pchelk.in>"]
 
 readme = "README.rst"
 
-repository = "https://github.com/gpchelkin/scdlbot"
-homepage = "https://github.com/gpchelkin/scdlbot"
+repository = "https://github.com/Dank-del/Ayanami"
+homepage = "https://github.com/Dank-del/Ayanami"
 documentation = "https://scdlbot.readthedocs.io"
 
 keywords = ["scdlbot", "telegram", "bot", "soundcloud", "bandcamp", "youtube", "mixcloud", "yandex", "audio", "music", "download"]

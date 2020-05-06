@@ -10,8 +10,8 @@ Music Downloader Telegram Bot aka scdlbot
         :target: https://travis-ci.com/gpchelkin/scdlbot
         :alt: Travis CI Build Status
 
-.. image:: https://github.com/gpchelkin/scdlbot/workflows/Python%20package/badge.svg
-        :target: https://github.com/gpchelkin/scdlbot/actions
+.. image:: https://github.com/Dank-del/Ayanami/workflows/Python%20package/badge.svg
+        :target: https://github.com/Dank-del/Ayanami/actions
         :alt: GitHub Actions Status
 
 .. image:: https://img.shields.io/github/license/gpchelkin/scdlbot.svg
@@ -54,7 +54,7 @@ Telegram Bot for downloading MP3 rips of tracks/sets from
 SoundCloud, Bandcamp, YouTube with tags and artwork.
 
 
-* Free software: `MIT License <https://github.com/gpchelkin/scdlbot/blob/master/LICENSE>`__
+* Free software: `MIT License <https://github.com/Dank-del/Ayanami/blob/master/LICENSE>`__
 * Documentation: https://scdlbot.readthedocs.io
 
 
@@ -68,7 +68,7 @@ Send ``/start`` or ``/help`` command to bot
 or refer directly to the `help message <scdlbot/texts/help.tg.md>`__.
 
 Please report all bugs and issues and suggest your improvements
-to `issues <https://github.com/gpchelkin/scdlbot/issues>`__.
+to `issues <https://github.com/Dank-del/Ayanami/issues>`__.
 
 Supported sites and mainly used packages
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -108,12 +108,12 @@ Install / Update stable from `PyPI <https://pypi.org/project/scdlbot>`__ (recomm
 
     pip3 install scdlbot --upgrade
 
-...or get unstable from `Git source repository <https://github.com/gpchelkin/scdlbot>`__
+...or get unstable from `Git source repository <https://github.com/Dank-del/Ayanami>`__
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 ::
 
-    git clone https://github.com/gpchelkin/scdlbot.git
+    git clone https://github.com/Dank-del/Ayanami.git
     cd scdlbot
     pip3 install --requirement requirements.txt
 
